@@ -14,7 +14,8 @@ download markdown
 download backup
 
 preview
-!{logo}(https://github.com/tousifsalt/tousifsalt/blob/main/developer.jpg)
+![logo](https://github.com/tousifsalt/tousifsalt/raw/main/developer.jpg)
+
 <h1 align="center">Hi 👋, I'm Tousif Salt</h1>
 <h3 align="center">Pursuing Java Full Stack Development and I am Eager to Learn New Technologies.</h3>
 <img align="rigth" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
