@@ -1,20 +1,8 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19134
-Fork on GitHub
-5672
 
-back to edit
+<div align="center">
+  <img src="https://github.com/tousifsalt/tousifsalt/raw/main/developer.jpg" alt="logo">
+</div>
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-![logo](https://github.com/tousifsalt/tousifsalt/raw/main/developer.jpg)
 
 <h1 align="center">Hi 👋, I'm Tousif Salt</h1>
 <h3 align="center">Pursuing Java Full Stack Development and I am Eager to Learn New Technologies.</h3>
