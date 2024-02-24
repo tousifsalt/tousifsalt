@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" width="500" height="350">
   <img src="https://github.com/tousifsalt/tousifsalt/raw/main/developer.jpg" alt="logo">
 </div>
 
