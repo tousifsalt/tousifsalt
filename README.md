@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Tousif Salt</h1>
 <h3 align="center">Pursuing Java Full Stack Web Development and I am Eager to Learn New Technologies.</h3>
-<img align="center" alt="coding" width="1000" height="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
+<img align="center" alt="coding" width="900" height="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tousifsalt&label=Profile%20views&color=0e75b6&style=flat" alt="tousifsalt" /> </p>
 
 - Postgraduate in Computer Science from Davangere University. **Maturity Detection Of Lemon Fruit Based on the color and Texture Properties.**
