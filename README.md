@@ -1,6 +1,6 @@
 
 <div align="center" >
-  <img src="[https://github.com/tousifsalt/tousifsalt/raw/main/developer.jpg" alt="logo" width="700" height="250">
+  <img src="https://github.com/tousifsalt/tousifsalt/blob/main/developer.jpg" alt="logo" width="700" height="250">
 </div>
 
 
